@@ -1,0 +1,6 @@
+# Sample config.yaml
+network:
+  peers: 2
+  orderers: 1
+  organizations: 1
+  channelName: "VPNDataChannel"
